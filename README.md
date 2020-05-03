@@ -22,16 +22,13 @@ e.g, Chemistry uses ACS format except one prof prefers APA format
 Page wording and links appropriate based on number of publications returned
 Currently has two formats, one ACS (Chemistry), the other APA (General Science). 
 More formats can be added with minimal effort.
-Selected Publications
-Author + Keyword Search
- 
-Keyword Search
- 
-iframe (embedded within another page- scroll down a bit to see publications)
+Selected Publications https://advance.science.sfu.ca/biology/publications/search.php?search=dhik&selected=yes
+Author + Keyword Search https://advance.science.sfu.ca/biology/publications/search.php?search=dhik&keyword=Alpine
+Keyword Search https://advance.science.sfu.ca/biology/publications/search.php?keyword=Trigonalidae
+iframe (embedded within another page- scroll down a bit to see publications) http://www.sfu.ca/biology2/staff/carmean/
 
 Constraints:
-I only add publications from the Web of Science
-One field for authors (can't customize the format of the authors)
+One field for authors (can't customize the format of the authors).
 One database record per publication means common authors share the record.
  
 Selected Publications are selected for all co-authors
