@@ -8,7 +8,7 @@ https://advance.science.sfu.ca/biology/publications/search.php?search=eelle
 https://advance.science.sfu.ca/bpk/publications/search.php?search=ablaber
 
 Features:
-Database on FileMaker Server;  (could be modified for MySQL)
+Database on FileMaker Server;  (could be modified for MySQL) 
 Easily updatable by staff using Filemaker Client
 Researchers can add new publications and edit their own existing publications via web interface
 Researchers/staff can designate others to edit their publications
