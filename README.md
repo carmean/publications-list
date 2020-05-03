@@ -16,14 +16,18 @@ Publications linked to Researchers/ Faculty by unique identifier (computingID).
 Publication Lists display in different formats for different disciplines.
 Configuration/customization in a single file. 
 Displays name of researcher and links to researcher's home page.
-Customized for each department, and/or for individual researchers. e.g, Chemistry uses ACS format except one prof prefers APA format.
+Customized for each department, and/or for individual researchers, e.g, Chemistry uses ACS format except one prof prefers APA format.
  
 Page wording and links appropriate based on number of publications returned.
 Currently has two formats, one ACS (Chemistry), the other APA (General Science). 
 More formats can be added with minimal effort.
+
 Selected Publications https://advance.science.sfu.ca/biology/publications/search.php?search=dhik&selected=yes
+
 Author + Keyword Search https://advance.science.sfu.ca/biology/publications/search.php?search=dhik&keyword=Alpine
+
 Keyword Search https://advance.science.sfu.ca/biology/publications/search.php?keyword=Trigonalidae
+
 iframe (embedded within another page- scroll down a bit to see publications) http://www.sfu.ca/biology2/staff/carmean/
 
 Constraints:
@@ -48,5 +52,4 @@ Serve with MySQL database rather than FileMaker. I previously recoded it and
 served from a MySQL database using Bibliograph https://github.com/cboulanger/bibliograph
  
 Would like to recode it for MySQL and bibutils https://sourceforge.net/projects/bibutils/
-and wikindx or refbase http://www.refbase.net/index.php/Table_refs
-
+and wikindx. 
